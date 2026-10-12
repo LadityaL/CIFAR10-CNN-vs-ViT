@@ -1,0 +1,4 @@
+learning_rate,best_validation_accuracy_pct,test_accuracy_pct
+0.001,89.9,89.35
+0.0003,88.66,88.33
+0.0001,83.02,83.35

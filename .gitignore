@@ -1,0 +1,21 @@
+# Downloads and generated training files
+data/
+*.pth
+*.pt
+exp1_histories.json
+exp2_lr_results.json
+exp3_ablation_history.json
+exp1_curves.png
+exp2_lr_study.png
+exp3_ablation.png
+*.tmp
+
+# Local environments and notebook caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.DS_Store
+Thumbs.db

@@ -1,0 +1,4 @@
+model,parameters,best_validation_accuracy_pct,test_accuracy_pct,training_minutes_rounded
+ResNet-18,11173962,89.9,89.35,3.9
+TinyViT,1806538,65.82,66.17,3.0
+Plain-ResNet,11000138,85.04,84.56,4.0

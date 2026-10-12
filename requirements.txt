@@ -1,0 +1,9 @@
+# Portable dependency list; versions from the original environment were not fully captured.
+# Install a compatible torch/torchvision pair for your CPU or CUDA environment.
+torch
+torchvision
+numpy
+pandas
+matplotlib
+jupyterlab
+ipykernel
